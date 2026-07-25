@@ -2,6 +2,20 @@
   "articles": [
     {
       "source": "Supply Chain Dive",
+      "title": "Iran war escalation rankles plastic supply chains",
+      "link": "https://www.supplychaindive.com/news/iran-war-escalation-rankles-plastic-supply-chains/826055/",
+      "snippet": "Access core intelligence briefings directly.",
+      "date": "Fri, 24 Jul 2026"
+    },
+    {
+      "source": "Supply Chain Dive",
+      "title": "Conagra to invest $125M in supply chain resilience",
+      "link": "https://www.supplychaindive.com/news/conagra-to-invest-125m-in-supply-chain-resilience/825796/",
+      "snippet": "Access core intelligence briefings directly.",
+      "date": "Fri, 24 Jul 2026"
+    },
+    {
+      "source": "Supply Chain Dive",
       "title": "US imposes tariffs over forced labor before global duty ends",
       "link": "https://www.supplychaindive.com/news/us-imposes-tariffs-over-forced-labor-before-global-duty-ends/825951/",
       "snippet": "Access core intelligence briefings directly.",
@@ -13,21 +27,7 @@
       "link": "https://www.supplychaindive.com/news/fedex-unveils-2026-peak-season-fees-higher-home-delivery-prices-loom/826049/",
       "snippet": "Access core intelligence briefings directly.",
       "date": "Thu, 23 Jul 2026"
-    },
-    {
-      "source": "Supply Chain Dive",
-      "title": "PepsiCo to cease warehouse operations at Oklahoma production site",
-      "link": "https://www.supplychaindive.com/news/pepsico-to-cease-warehouse-operations-at-oklahoma-production-site/825833/",
-      "snippet": "Access core intelligence briefings directly.",
-      "date": "Thu, 23 Jul 2026"
-    },
-    {
-      "source": "Supply Chain Dive",
-      "title": "TSMC makes another $100B US investment",
-      "link": "https://www.supplychaindive.com/news/tsmc-100B-US-semiconductor-investment-supply-chain/825599/",
-      "snippet": "Access core intelligence briefings directly.",
-      "date": "Thu, 23 Jul 2026"
     }
   ],
-  "compiled_at": "2026-07-24 01:22:59"
+  "compiled_at": "2026-07-25 01:23:24"
 }
