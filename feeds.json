@@ -2,6 +2,20 @@
   "articles": [
     {
       "source": "Supply Chain Dive",
+      "title": "Tyson suggests high beef prices face long recovery",
+      "link": "https://www.supplychaindive.com/news/tyson-suggests-high-beef-prices-face-long-recovery/827057/",
+      "snippet": "Access core intelligence briefings directly.",
+      "date": "Fri, 07 Aug 2026"
+    },
+    {
+      "source": "Supply Chain Dive",
+      "title": "CBP has paid $100B in IEEPA tariff refunds",
+      "link": "https://www.supplychaindive.com/news/cbp-has-paid-100b-in-ieepa-tariff-refunds/827257/",
+      "snippet": "Access core intelligence briefings directly.",
+      "date": "Fri, 07 Aug 2026"
+    },
+    {
+      "source": "Supply Chain Dive",
       "title": "O’Reilly Automotive, suppliers sharing tariff refund benefits",
       "link": "https://www.supplychaindive.com/news/oreilly-automotive-suppliers-sharing-tariff-refund-benefits/827111/",
       "snippet": "Access core intelligence briefings directly.",
@@ -13,21 +27,7 @@
       "link": "https://www.supplychaindive.com/news/china-export-frontloading-fuels-transpacific-trade-matson-says/827131/",
       "snippet": "Access core intelligence briefings directly.",
       "date": "Thu, 06 Aug 2026"
-    },
-    {
-      "source": "Supply Chain Dive",
-      "title": "Starbucks targets 24-hour inventory replenishment",
-      "link": "https://www.supplychaindive.com/news/starbucks-targets-24-hour-inventory-replenishment/827030/",
-      "snippet": "Access core intelligence briefings directly.",
-      "date": "Thu, 06 Aug 2026"
-    },
-    {
-      "source": "Supply Chain Dive",
-      "title": "Commerce Department proposes tariffs on more steel, aluminum, copper goods",
-      "link": "https://www.supplychaindive.com/news/commerce-department-proposes-tariffs-on-more-steel-aluminum-copper-goods/827125/",
-      "snippet": "Access core intelligence briefings directly.",
-      "date": "Thu, 06 Aug 2026"
     }
   ],
-  "compiled_at": "2026-08-07 01:58:47"
+  "compiled_at": "2026-08-08 00:41:49"
 }
