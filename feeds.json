@@ -2,6 +2,13 @@
   "articles": [
     {
       "source": "Supply Chain Dive",
+      "title": "Trump’s 50% tariff on many Canada imports in effect as talks stall",
+      "link": "https://www.supplychaindive.com/news/trumps-50-tariff-on-many-canada-imports-in-effect-as-talks-stall/828549/",
+      "snippet": "Access core intelligence briefings directly.",
+      "date": "Sat, 22 Aug 2026"
+    },
+    {
+      "source": "Supply Chain Dive",
       "title": "Panama Canal to trim daily shipping slots due to El Niño",
       "link": "https://www.supplychaindive.com/news/panama-canal-to-trim-daily-shipping-slots-due-to-el-nino/828505/",
       "snippet": "Access core intelligence briefings directly.",
@@ -20,14 +27,7 @@
       "link": "https://www.supplychaindive.com/news/best-buy-achieves-zero-waste-goal-at-supply-chain-facilities/828412/",
       "snippet": "Access core intelligence briefings directly.",
       "date": "Fri, 21 Aug 2026"
-    },
-    {
-      "source": "Supply Chain Dive",
-      "title": "Port of Los Angeles preps for cargo bump as shippers navigate global risks",
-      "link": "https://www.supplychaindive.com/news/port-of-los-angeles-preps-for-cargo-bump-as-shippers-navigate-global-risks/828376/",
-      "snippet": "Access core intelligence briefings directly.",
-      "date": "Fri, 21 Aug 2026"
     }
   ],
-  "compiled_at": "2026-08-22 00:30:02"
+  "compiled_at": "2026-08-23 00:32:56"
 }
