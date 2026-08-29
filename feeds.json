@@ -2,6 +2,13 @@
   "articles": [
     {
       "source": "Supply Chain Dive",
+      "title": "Jim Beam maker chooses next chief supply chain officer",
+      "link": "https://www.supplychaindive.com/news/jim-beam-maker-chooses-next-chief-supply-chain-officer/828859/",
+      "snippet": "Access core intelligence briefings directly.",
+      "date": "Fri, 28 Aug 2026"
+    },
+    {
+      "source": "Supply Chain Dive",
       "title": "How a New York City bill could shake up Amazon, FedEx delivery operations",
       "link": "https://www.supplychaindive.com/news/how-a-new-york-city-bill-could-shake-up-amazon-fedex-delivery-operations/828860/",
       "snippet": "Access core intelligence briefings directly.",
@@ -20,14 +27,7 @@
       "link": "https://www.supplychaindive.com/news/ups-preps-higher-holiday-surcharges-for-2026/828936/",
       "snippet": "Access core intelligence briefings directly.",
       "date": "Thu, 27 Aug 2026"
-    },
-    {
-      "source": "Supply Chain Dive",
-      "title": "Packaging sector braces for US-Canada trade war impacts",
-      "link": "https://www.supplychaindive.com/news/packaging-sector-braces-for-us-canada-trade-war-impacts/828938/",
-      "snippet": "Access core intelligence briefings directly.",
-      "date": "Thu, 27 Aug 2026"
     }
   ],
-  "compiled_at": "2026-08-28 07:20:03"
+  "compiled_at": "2026-08-29 04:31:05"
 }
